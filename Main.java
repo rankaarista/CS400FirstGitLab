@@ -1,3 +1,6 @@
+//Name - Arista Ranka
+//Email - amranka@wisc.edu
+//CS Login Username - aristaranka
 /*
  * Test the use of the Color method
  */
